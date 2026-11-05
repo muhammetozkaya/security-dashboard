@@ -111,7 +111,7 @@ security-dashboard/
 ## 👨‍💻 Yazar ve Katkıda Bulunanlar
 
 * **Muhammet Özkaya** - *Geliştirici / Tasarımcı* - [GitHub Profili](https://github.com/muhammetozkaya)
-* İletişim: `muhammetozkaya477@gmail.com`
+* İletişim: `muhammetozkaya625@icloud.com`
 
 ---
 
